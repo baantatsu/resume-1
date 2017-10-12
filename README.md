@@ -4,8 +4,9 @@
 
 - Email：469092943@qq.com
 
-- 微信：quanquan_pyy 
-
-- 微信二维码：![](weChatQRCode.png)
+- 微信：quanquan_pyy / [二维码](https://github.com/yuanyuan100/resume/blob/master/weChatQRCode.png?_blank)
 
   ​
+
+  ​
+
