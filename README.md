@@ -27,7 +27,7 @@
 
 ### 爱问医生诊室
 
-主导项目开发。重构网络框架、开发Crash监听模块，图片裁剪功能，富文本编辑模块，文字模糊功能，部分业务及UI，证书管理和APP上架等。由于在该项目中表现突出，并且iOS团队从2人扩大至4人，3个月后被提升为iOS团队负责人。在开发过程中**文字模糊功能**遇到困难，网络上几乎没有该功能的技术文章，于是确定查找方向，通过阅读官方文档[Text Programming Guide for iOS](https://developer.apple.com/library/content/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/)入手,最终通过NSAttributedString及UIResponder的特性顺利解决问题。
+主导项目开发。重构网络框架、开发Crash监听模块，图片裁剪功能，富文本编辑模块，文字模糊功能，部分业务及UI，证书管理和APP上架等。由于在该项目中表现突出，并且iOS团队从2人扩大至4人，3个月后被提升为iOS团队负责人。在开发过程中**文字模糊功能**遇到困难，网络上几乎没有该功能的技术文章，于是确定查找方向，通过阅读官方文档[Text Programming Guide for iOS](https://developer.apple.com/library/content/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/)入手,最终通过NSAttributedString及UIResponder的特性顺利解决问题。项目技术：RunLoop、RunTime、贝塞尔曲线及其它第三方框架AFNetworking、SDWebImage、Masonry、MJRefresh、RTRootNavigationController、ZSSRichTextEditor等
 
 在项目进入到3.4.0版本后，独立对项目进行组件化，通过framework及cocoapods私库的方法进行拆分原有业务和基础模块，以适应公司的敏捷开发需要。
 
@@ -39,7 +39,7 @@
 
 ### 一览
 
-主要负责业务逻辑及UI搭建、第三方分享，注册登录及第三方登录等。主要使用了JPush下的IM、短信验证、AFNetworking网络请求、json解析、数据持久化、MVC设计框架，第三方支付及高德地图。
+主要负责业务逻辑及UI搭建、第三方分享，注册登录及第三方登录等。项目技术：JPush下的IM、短信验证、AFNetworking网络请求、json解析、数据持久化、MVC设计框架，第三方支付及高德地图。
 
 ### 墨缘
 
