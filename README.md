@@ -65,7 +65,7 @@
 
 - 精通Objective-c、MVC,熟练运用Swift及C，了解java。熟练运用Git、SVN；
 - 熟练掌握cocoapods搭建私库公库，熟练多个xocodeproj（target或project）联编，并制作framework。可熟练搭建项目框架；
-- 精通UIKit控件的使用。通过常用的设计模式，代理、观察者、工厂、包装等对控件进行自定义封装,提供便利的接口满足项目的复杂需求。精通InterFace Builder、autolayout，适配各机型UI。
+- 精通UIKit控件的使用。通过常用的设计模式，代理、观察者、工厂、包装等对控件进行自定义封装,提供便利的接口满足项目的复杂需求。精通InterFace Builder、autolayout，适配各机型UI；
 - 熟练运用runtime，理解runloop原理，并做过UITableView性能优化；
 - 熟练运用多线程GCD,NSOperation，NSThread;
 - 了解iOS框架的媒体播放框架，处理视频音频播放；
