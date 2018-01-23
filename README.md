@@ -25,9 +25,6 @@
 
 ## 武汉烧麦财播科技有限公司（深圳盖威科技有限公司）（2017.10-至今）
 
-### 烧麦财播
-目前该项目已停止运营。负责维护工作。
-
 ### 金道外汇投资
 
 组件化架构设计及搭建。
@@ -68,11 +65,14 @@
 
 - 编写文档
 
+### 烧麦财播
+目前该项目已停止运营。负责维护工作。
+
 ## 爱问医联科技（深圳）有限公司（新浪爱问）（2016.06-2017.10）
 
 ### 爱问医生诊室
 
-主导项目开发。重构网络框架、开发Crash监听模块，图片裁剪功能，富文本编辑模块，文字模糊功能，部分业务及UI，证书管理和APP上架等。由于在该项目中表现突出，并且iOS团队从2人扩大至4人，3个月后被提升为iOS团队负责人。在开发过程中**文字模糊功能**遇到困难，网络上几乎没有该功能的技术文章，于是确定查找方向，通过阅读官方文档[Text Programming Guide for iOS](https://developer.apple.com/library/content/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/)入手,最终通过NSAttributedString及UIResponder的特性顺利解决问题。
+主导项目开发。重构网络框架、开发Crash监听模块，图片裁剪功能，富文本编辑模块，文字模糊功能，部分业务及UI，证书管理和APP上架等。由于在该项目中表现突出，并且iOS团队从2人扩大至4人，3个月后被提升为iOS团队负责人。在开发过程中文字模糊功能遇到困难，网络上几乎没有该功能的技术文章，于是确定查找方向，通过阅读官方文档[Text Programming Guide for iOS](https://developer.apple.com/library/content/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/)入手,最终通过NSAttributedString及UIResponder的特性顺利解决问题。
 
 在项目进入到3.4.0版本后，独立对项目进行组件化，通过framework及cocoapods私库的方法进行拆分原有业务和基础模块，以适应公司的敏捷开发需要。
 
@@ -104,6 +104,10 @@
 # 开源项目
 
 **[DataDriving](https://github.com/yuanyuan100/DataDriving)**：数据与View绑定，数据改变驱动View改变，也可反之。简化回调。
+
+**[YYDataFlow](https://github.com/yuanyuan100/YYDataFlow)**：中心化的KVO，免除频繁的移除观察者，极其简单的调用方法。
+
+**[YYApplicationModule](https://github.com/yuanyuan100/YYApplicationModule)**：维护组件的生命周期，统一运行环境，快速集成及开发，动态组合等功能。
 
 ------
 
